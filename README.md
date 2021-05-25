@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gVesco&show_icons=true&theme=gotham&hide=issues,contribs)
+
+
 <!--
 **gVesco/gVesco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
