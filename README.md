@@ -22,13 +22,14 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      height="165"
+      height="125"
       src="https://github-readme-stats.vercel.app/api?username=gVesco&show_icons=true&theme=gotham&hide=issues,contribs"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
+      height="125"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gVesco&layout=compact&theme=gotham"
     />
   </a>
