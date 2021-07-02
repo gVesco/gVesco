@@ -36,21 +36,9 @@
 
 ## Hello world! 
 
-
-👨‍💻 Engenheiro de Software Jr na Itaú Unibanco.
-🌱 Estudante de Ciência da computação, 5° semestre.
-💙 Interesse: Java, Spring Boot, html, css, javaScript, React, c# , .net e ASP.net.
-
-
-
-
-
-
-
-
-
-
-
+- 👨‍💻 Analista de Suporte de Sistemas Júnior na Madeiranit Leme;
+- 🤔 Estudante de Análise e Desenvolvimento de Sistemas;
+- 💙 Interesse: ADVPL, Python, HTML, CSS, JavaScript e c#.
 <!--
 **gVesco/gVesco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
