@@ -39,7 +39,7 @@
 
 - 👨‍💻 Analista de Suporte de Sistemas Júnior na Madeiranit Leme;
 - 🤔 Estudante de Análise e Desenvolvimento de Sistemas;
-- 💙 Interesse: ADVPL, Python, HTML, CSS, JavaScript, PHP e C#.
+- 💙 Interesse: ADVPL, Python, HTML, CSS, JavaScript, PHP e C++.
 <!--
 **gVesco/gVesco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
