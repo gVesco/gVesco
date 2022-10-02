@@ -18,7 +18,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/glerm0)
 
 <p align="center">
-  
+  <!--
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
@@ -26,6 +26,7 @@
       src="https://github-readme-stats.vercel.app/api?username=gVesco&show_icons=true&theme=gotham&hide=issues,contribs"
     />
   </a>
+  -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
