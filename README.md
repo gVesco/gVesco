@@ -38,9 +38,9 @@
 
 ## Hello world! 
 
-- 👨‍💻 Analista de Suporte de Sistemas Júnior na Madeiranit Leme;
+- 👨‍💻 QA na devCoffee;
 - 🤔 Estudante de Análise e Desenvolvimento de Sistemas;
-- 💙 Interesses: Linux, SQL, ADVPL, Python, JavaScript, PHP, HTML e CSS.
+- 💙 Interesses: Java, Linux, SQL, ADVPL, Python, JavaScript e PHP.
 <!--
 **gVesco/gVesco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
