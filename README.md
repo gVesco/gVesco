@@ -1,50 +1,35 @@
-<!--
 <p align="center">
-  <a href="#">
-    <img align="center" width="300" src="mateus.png" />
-  </a>
-  <a href="#">
-    <img align="center" width="450" src="dev.gif" />
-  </a>
-</p>
-</br>
-</br>
-<p align="center">
--->
-
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-vesco/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/glerm0/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/glerm0)
 
-<p align="center">
-  <!--
+<br>
+  
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      height="125"
-      src="https://github-readme-stats.vercel.app/api?username=gVesco&show_icons=true&theme=gotham&hide=issues,contribs"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api?username=gVesco&show_icons=true&theme=gotham"
     />
   </a>
-  -->
+ 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      height="125"
+      height="150em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gVesco&layout=compact&theme=gotham"
     />
   </a>
+
 </p>
 
-## Hello world! 
+## Hello World! 
 
 - 👨‍💻 QA na devCoffee;
 - 🤔 Estudante de Análise e Desenvolvimento de Sistemas;
 - 💙 Interesses: Java, Linux, SQL, ADVPL, Python, JavaScript e PHP.
 <!--
-**gVesco/gVesco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
