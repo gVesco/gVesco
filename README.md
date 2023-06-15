@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-vesco/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/glerm0/)
@@ -22,13 +22,19 @@
     />
   </a>
 
-</p>
+</div>
 
 ## 🏆 GitHub Trophies
 
+<div align="center">
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=gVesco&column=-1&theme=gitdimmed)](https://github.com/ryo-ma/github-profile-trophy)
 
+</div>
+
 ## 👨‍💻 Skills
+
+<div align="center">
 
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -38,7 +44,9 @@
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![mssql](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-## 🙋🏻‍♂️ About me 
+</div>
 
+## 🙋🏻‍♂️ About me 
+  
 - 🤔 Estudante de Análise e Desenvolvimento de Sistemas;
-> - 💙 Interesses: Java, Linux, SQL, ADVPL, Python, JavaScript e PHP.
+<!-- 💙 Interesses: Java, Linux, SQL, ADVPL, Python, JavaScript e PHP. -->
