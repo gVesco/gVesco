@@ -24,7 +24,7 @@
 
 </div>
 
-## 🏆 GitHub Trophies
+## 🏆 Troféus GitHub
 
 <div align="center">
   
@@ -32,7 +32,7 @@
 
 </div>
 
-## 👨‍💻 Skills
+## 👨‍💻 Habilidades e Interesses
 
 <div align="center">
 
