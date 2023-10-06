@@ -1,4 +1,4 @@
-<!--
+
 <div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-vesco/)
@@ -30,7 +30,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=gVesco&column=-1&theme=gitdimmed)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
--->
+
 ## 👨‍💻 Habilidades e Interesses
 
 <div align="center">
