@@ -1,9 +1,9 @@
 
 <div align="center">
-
+<!--
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-vesco/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/glerm0/)
-
+-->
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
@@ -23,14 +23,14 @@
 
 </div>
 
-## 🏆 Troféus GitHub
+<!--## 🏆 Troféus GitHub
 
 <div align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=gVesco&column=-1&theme=gitdimmed)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
+-->
 ## 👨‍💻 Habilidades e Interesses
 
 <div align="center">
