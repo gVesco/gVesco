@@ -48,11 +48,12 @@
 </div>
 
 ## 🎵 Ouvindo Agora
+<div align="center">
 
   <a href="https://open.spotify.com/user/12150707714">
     <img src="https://novatorem-sepia-nine.vercel.app/api/spotify" alt="Spotify Playing" width="400" />
   </a>
-
+</div>
 
 
 <!--
