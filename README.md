@@ -9,7 +9,7 @@
     <img
       align="center"
       height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=gVesco&show_icons=true&theme=gotham"
+      src="https://github-readme-stats-guilherme-vescos-projects.vercel.app/api?username=gVesco&show_icons=true&theme=gotham"
     />
   </a>
  
@@ -17,7 +17,7 @@
     <img
       align="center"
       height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gVesco&layout=compact&theme=gotham"
+      src="https://github-readme-stats-guilherme-vescos-projects.vercel.app/api/top-langs/?username=gVesco&layout=compact&theme=gotham"
     />
   </a>
 
