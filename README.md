@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-vesco/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/glerm0/)
 -->
-  
+
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
@@ -35,7 +35,6 @@
 
 <div align="center">
 
-
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -46,8 +45,15 @@
 ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-
 </div>
+
+## 🎵 Ouvindo Agora
+
+  <a href="https://open.spotify.com/user/12150707714">
+    <img src="https://novatorem-sepia-nine.vercel.app/api/spotify" alt="Spotify Playing" width="400" />
+  </a>
+
+
 
 <!--
 - 🤔 Estudante de Análise e Desenvolvimento de Sistemas;
