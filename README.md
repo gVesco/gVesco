@@ -9,7 +9,7 @@
     <img
       align="center"
       height="150em"
-      src="https://github-readme-stats-guilherme-vescos-projects.vercel.app/api?username=gVesco&show_icons=true&theme=gotham&hide=stars,issues"
+      src="https://github-readme-stats-guilherme-vescos-projects.vercel.app/api?username=gVesco&show_icons=true&theme=gotham&hide=stars,issues&include_all_commits=true"
     />
   </a>
  
