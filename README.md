@@ -16,7 +16,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       height="150em"
-      src="https://github-readme-stats-guilherme-vescos-projects.vercel.app/api/top-langs/?username=gVesco&layout=compact&theme=gotham&exclude_repo=github-readme-stats"
+      src="https://github-readme-stats-guilherme-vescos-projects.vercel.app/api/top-langs/?username=gVesco&layout=compact&theme=gotham&exclude_repo=MadeiranitProj"
     />
   </a>
 </details>
