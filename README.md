@@ -9,14 +9,14 @@
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      height="150em"
-      src="https://github-readme-stats-guilherme-vescos-projects.vercel.app/api?username=gVesco&show_icons=true&theme=gotham&hide=stars,issues&include_all_commits=true"
+      height="220em"
+      src="https://github-readme-stats-guilherme-vescos-projects.vercel.app/api?username=gVesco&show_icons=true&theme=nightowl&include_all_commits=true"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      height="150em"
-      src="https://github-readme-stats-guilherme-vescos-projects.vercel.app/api/top-langs/?username=gVesco&layout=compact&theme=gotham&exclude_repo=MadeiranitProj"
+      height="220em"
+      src="https://github-readme-stats-guilherme-vescos-projects.vercel.app/api/top-langs/?username=gVesco&layout=normal&theme=nightowl&langs_count=4&exclude_repo=MadeiranitProj,gVesco"
     />
   </a>
 </details>
