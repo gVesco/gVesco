@@ -10,7 +10,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       height="220em"
-      src="https://github-readme-stats-guilherme-vescos-projects.vercel.app/api?username=gVesco&show_icons=true&theme=nightowl&include_all_commits=true"
+      src="https://github-readme-stats-guilherme-vescos-projects.vercel.app/api?username=gVesco&show_icons=true&theme=nightowl"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
