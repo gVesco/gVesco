@@ -5,7 +5,7 @@
 </div>
 
 <details open> 
-    <summary><h3>👨‍💻 GitHub Stats </h3></summary>
+    <summary><h3> 👨‍💻 GitHub Stats </h3></summary>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
@@ -23,7 +23,7 @@
 </div>
 
 <details open> 
-    <summary><h3> 👨‍💻 Skills and Interests </h3></summary>
+    <summary><h3> 📱 Skills and Interests </h3></summary>
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -45,7 +45,7 @@
 </details>
 
 <details open> 
-    <summary><h3> 🎵 Listening Now </h3></summary>
+    <summary><h3> 🎵 Last Song Played </h3></summary>
 
 <div align="center">
 	<a href="https://open.spotify.com/user/12150707714">
