@@ -10,13 +10,13 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       height="220em"
-      src="https://github-readme-stats-guilherme-vescos-projects.vercel.app/api?username=gVesco&show_icons=true&theme=nightowl&hide=issues&include_all_commits=true&show=prs_merged_percentage"
+      src="https://github-readme-stats-guilherme-vescos-projects.vercel.app/api?username=gVesco&show_icons=true&theme=codeSTACKr&hide=issues&include_all_commits=true&show=prs_merged_percentage"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       height="220em"
-      src="https://github-readme-stats-guilherme-vescos-projects.vercel.app/api/top-langs/?username=gVesco&layout=normal&theme=nightowl&langs_count=4&exclude_repo=MadeiranitProj,gVesco"
+      src="https://github-readme-stats-guilherme-vescos-projects.vercel.app/api/top-langs/?username=gVesco&layout=donut&theme=codeSTACKr&langs_count=5&exclude_repo=MadeiranitProj"
     />
   </a>
 </details>
