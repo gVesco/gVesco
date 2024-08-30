@@ -16,7 +16,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       height="200em"
-      src="https://github-readme-stats-guilherme-vescos-projects.vercel.app/api/top-langs/?username=gVesco&layout=donut&theme=codeSTACKr&langs_count=5&exclude_repo=MadeiranitProj&count_private=true&include_all_commits=true"
+      src="https://github-readme-stats-guilherme-vescos-projects.vercel.app/api/top-langs/?username=gVesco&layout=donut&theme=codeSTACKr&langs_count=5&exclude_repo=madeiranit-projeto&count_private=true&include_all_commits=true"
     />
   </a>
 </details>
