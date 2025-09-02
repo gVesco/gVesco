@@ -19,9 +19,10 @@ jobs:
 
       - name: Update README.md cache buster
         run: |
-          # Remove qualquer parâmetro &v= existente e adiciona um novo no final
+          # Remove qualquer parâmetro &v= antigo
           sed -i "s/&v=[0-9]*//g" README.md
-          sed -i "s/\(\cache_seconds=[0-9]*\)/\1\&v=$(date +%s)/g" README.md
+          # Adiciona um novo &v=timestamp no final de cada linha que tiver 'github-readme-stats'
+          sed -i "s|\(github-readme-stats[^\"]*\)|\1\&v=$(date +%s)|g" README.md
 
       - name: Commit changes
         run: |
