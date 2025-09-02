@@ -1,0 +1,31 @@
+name: Update GitHub Stats in README
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    # Atualiza a cada 12 horas
+    - cron: "0 */12 * * *"
+  workflow_dispatch: # permite rodar manualmente também
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Update README.md cache buster
+        run: |
+          # Substitui a versão do parâmetro v= pelo timestamp atual
+          sed -i "s/&v=[0-9]*/&v=$(date +%s)/" README.md
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "chore: refresh GitHub stats cache" || echo "No changes to commit"
+          git push
