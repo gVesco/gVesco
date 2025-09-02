@@ -7,16 +7,16 @@
 <details open> 
     <summary><h3> 👨‍💻 GitHub Stats </h3></summary>
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats&v=1756839330">
+  <a href="https://github.com/anuraghazra/github-readme-stats&v=1756839369">
     <img
       height="180"
-      src="https://github-readme-stats-guilherme-vescos-projects.vercel.app/api?username=gVesco&show_icons=true&theme=codeSTACKr&hide=issues&show=prs_merged_percentage&count_private=true&cache_seconds=3600&v=1756839330"
+      src="https://github-readme-stats-guilherme-vescos-projects.vercel.app/api?username=gVesco&show_icons=true&theme=codeSTACKr&hide=issues&show=prs_merged_percentage&count_private=true&cache_seconds=3600&v=1756839369"
     />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats&v=1756839330">
+  <a href="https://github.com/anuraghazra/github-readme-stats&v=1756839369">
     <img
       height="180"
-      src="https://github-readme-stats-guilherme-vescos-projects.vercel.app/api/top-langs/?username=gVesco&layout=donut&theme=codeSTACKr&langs_count=5&exclude_repo=madeiranit-projeto&count_private=true&cache_seconds=3600&v=1756839330"
+      src="https://github-readme-stats-guilherme-vescos-projects.vercel.app/api/top-langs/?username=gVesco&layout=donut&theme=codeSTACKr&langs_count=5&exclude_repo=madeiranit-projeto&count_private=true&cache_seconds=3600&v=1756839369"
     />
   </a>
 </details>
