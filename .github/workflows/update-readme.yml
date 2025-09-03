@@ -4,11 +4,10 @@ on:
   push:
     branches:
       - main
-  schedule:
-    # Atualiza a cada 12 horas
-    - cron: "0 */12 * * *"
-  workflow_dispatch: # permite rodar manualmente também
-
+  # Atualiza a cada 12 horas
+  #schedule:
+    #- cron: "0 */12 * * *"
+  workflow_dispatch:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
