@@ -55,7 +55,7 @@
 
 <div align="center">
 	<a href="https://open.spotify.com/user/12150707714">
-    	<img src="https://novatorem-guilherme-vescos-projects.vercel.app/api/orchestrator" alt="Spotify Playing" width="500" />
+    	<img src="https://novatorem-guilherme-vescos-projects.vercel.app/api/orchestrator?background_type=blur_dark" alt="Spotify Playing" width="500" />
 	</a>
 </div>
 
