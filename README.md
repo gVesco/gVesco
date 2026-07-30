@@ -4,24 +4,15 @@
 	<img src="Saudacoes.png" alt="Greetings!">
 </div>
 
-<details open> 
-    <summary><h3> 👨‍💻 GitHub Stats </h3></summary>
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      height="180"
-      src="https://github-readme-stats-guilherme-vescos-projects.vercel.app/api?username=gVesco&show_icons=true&theme=codeSTACKr&hide=issues&show=prs_merged_percentage&count_private=true&cache_seconds=3600&v=1785431509"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      height="180"
-      src="https://github-readme-stats-guilherme-vescos-projects.vercel.app/api/top-langs/?username=gVesco&layout=donut&theme=codeSTACKr&langs_count=5&exclude_repo=madeiranit-projeto&count_private=true&cache_seconds=3600&v=1785431509"
-    />
-  </a>
+<!--<details open> 
+<summary><h3> 👨‍💻 GitHub Stats </h3></summary>
+		
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+
 </details>
 </div>
-
+-->
 <details open> 
     <summary><h3> 📱 Skills and Interests </h3></summary>
 <div align="center">
@@ -48,6 +39,7 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 </div>
+<!--
 </details>
 
 <details open> 
@@ -60,3 +52,4 @@
 </div>
 
 </details>
+-->
